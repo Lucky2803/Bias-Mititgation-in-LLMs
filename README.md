@@ -13,3 +13,4 @@ Honest: MilaNLProc/honest
 We have studied different toxicity metrics namely: toxicity from hugging face evaluate library, Perspective API toxicity and Unitary detoxify API
 Regard and honest metrics are part of the hugging face evaluate library.
 
+Code will be open-sourced after completion of the project.
