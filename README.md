@@ -3,8 +3,6 @@ Mitigating the language bias across Toxicity, Honest and Regard metrics. A compa
 
 Implementation of Counterfactual data substitution to reduce language polarity in GPT2. 
 
-A comparative analysis of prompt tuning and fine-tuning to alleviate toxicity
-
 We have studied different toxicity metrics namely: toxicity from hugging face evaluate library, Perspective API toxicity and Unitary detoxify API
 Regard and honest metrics are part of the hugging face evaluate library.
 
